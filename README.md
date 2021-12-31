@@ -1,7 +1,7 @@
 <p margin = "auto">
-  <img src="laravel.jpg" width="600" />
-  <p margin = "auto">**+**</p>
-  <img src="mySQL.jpeg" width="600" /> 
+  <img src="laravel.jpg" width="500" />
+  <center>+</center>   
+  <img src="mySQL.jpeg" width="500" /> 
 </p>
 
 Social Media Application Web APIs
