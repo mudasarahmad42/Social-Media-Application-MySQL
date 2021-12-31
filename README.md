@@ -1,6 +1,6 @@
 <p float="left">
-  <img src="laravel.png" width="300" />
-  <img src="mySQL.png" width="300" /> 
+  <img src="laravel.jpg" width="300" />
+  <img src="mySQL.jpeg" width="300" /> 
 </p>
 
 Social Media Application Web APIs
