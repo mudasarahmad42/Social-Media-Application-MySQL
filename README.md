@@ -1,4 +1,7 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p float="left">
+  <img src="laravel.png" width="300" />
+  <img src="mySQL.png" width="300" /> 
+</p>
 
 Social Media Application Web APIs
 
